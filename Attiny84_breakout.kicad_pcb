@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.6-e0-6349~53~ubuntu16.04.1)
+(kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~58~ubuntu16.04.1)
 
   (general
     (links 59)
@@ -488,7 +488,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ../../../../../home/luis/kicad/modules/packages3d/Buttons_Switches_SMD.3dshapes/SW_SPST_FSMSM.wrl
+    (model Buttons_Switches_SMD.3dshapes/SW_SPST_FSMSM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 0.8 0.8 0.8))
       (rotate (xyz 0 0 0))
@@ -825,7 +825,7 @@
       (net 21 "Net-(J1-Pad6)"))
     (pad 6 thru_hole oval (at 3.5 1.35 270) (size 1.55 1) (drill oval 1.15 0.5) (layers *.Cu *.Mask)
       (net 21 "Net-(J1-Pad6)"))
-    (model ../../../../../home/luis/kicad/modules/packages3d/Connectors_USB.3dshapes/USB_Micro-B_Molex_47346-0001.wrl
+    (model Connectors_USB.3dshapes/USB_Micro-B_Molex_47346-0001.wrl
       (at (xyz 0 -0.05 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
