@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C2";"C_0603";1;"10u";;;
+2;"C1,C3";"C_0402";2;"100n";;;
+3;"C4,C5";"C_0402";2;"22p";;;
+4;"IC1";"QFN-20-1EP_4x4mm_Pitch0.5mm";1;"ATTINY84A-M";;;
+5;"R1";"R_0402";1;"10k";;;
+6;"SW1";"SW_SPST_EVQPE1";1;"SW_PUSH";;;
+7;"X1";"Crystal_SMD_3225-4pin_3.2x2.5mm";1;"CRYSTAL_SMD";;;
+8;"P2,P3";"Pin_Header_Straight_1x07_Pitch2.54mm";2;"CONN_01X07";;;
+9;"D1,D4";"LED_0603";2;"LED";;;
+10;"D2";"D_SOT-23_NKA";1;"D_3V6";;;
+11;"F1";"Fuse_SMD1206_Reflow";1;"Polyfuse_Small";;;
+12;"J1";"USB_Micro-B";1;"USB_OTG";;;
+13;"L1";"L_0402";1;"Ferrite_Bead_Small";;;
+14;"R2,R6";"R_0402";2;"1k";;;
+15;"R3";"R_0402";1;"1.5K";;;
+16;"R4,R5";"R_0402";2;"68";;;
+17;"svg2mod";"Roboy_Logo_F.SilkS";1;"G***";;;
